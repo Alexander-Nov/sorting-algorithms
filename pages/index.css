@@ -7,3 +7,4 @@
 @import url(../blocks/diagram/diagram.css);
 @import url(../blocks/diagram/__element/diagram__element.css);
 @import url(../blocks/diagram/__element/_is-comparing/diagram__element_is-comparing.css);
+@import url(../blocks/diagram/__element/_is-sorted/diagram__element_is-sorted.css);
