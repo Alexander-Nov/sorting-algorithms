@@ -1,0 +1,7 @@
+.header__menu-item-button {
+  min-width: 120px;
+  min-height: 35px;
+  margin: 0 10px 0 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}

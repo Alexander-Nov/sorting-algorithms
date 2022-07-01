@@ -1,0 +1,8 @@
+.diagram {
+  display: flex;
+  align-items: flex-end;
+  justify-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 500px;
+}

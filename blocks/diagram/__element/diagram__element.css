@@ -1,0 +1,9 @@
+.diagram__element {
+  border: 1px solid black;
+  border-radius: 2px;
+  margin: 0 5px;
+  display: flex;
+  align-items: flex-end;
+  justify-items: center;
+  justify-content: center;
+}
